@@ -1,0 +1,42 @@
+3b3de4a HEAD@{1}: checkout: moving from develop to main
+47fd1c5 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+f0ef8db (origin/images, images) HEAD@{3}: checkout: moving from styles to develop
+f1a446f (origin/styles, styles) HEAD@{4}: commit: Bye
+f7f1503 HEAD@{5}: checkout: moving from develop to styles
+f0ef8db (origin/images, images) HEAD@{6}: reset: moving to HEAD
+f0ef8db (origin/images, images) HEAD@{7}: checkout: moving from main to develop
+3b3de4a HEAD@{8}: checkout: moving from develop to main
+f0ef8db (origin/images, images) HEAD@{9}: checkout: moving from images to develop
+f0ef8db (origin/images, images) HEAD@{10}: checkout: moving from styles to images
+f7f1503 HEAD@{11}: checkout: moving from develop to styles
+f0ef8db (origin/images, images) HEAD@{12}: reset: moving to HEAD
+f0ef8db (origin/images, images) HEAD@{13}: checkout: moving from styles to develop
+f7f1503 HEAD@{14}: checkout: moving from develop to styles
+f0ef8db (origin/images, images) HEAD@{15}: reset: moving to HEAD
+f0ef8db (origin/images, images) HEAD@{16}: merge images: Fast-forward
+8c72fa6 HEAD@{17}: checkout: moving from styles to develop
+f7f1503 HEAD@{18}: commit: Commit in Vim
+13b064f HEAD@{19}: checkout: moving from develop to styles
+8c72fa6 HEAD@{20}: checkout: moving from styles to develop
+13b064f HEAD@{21}: commit: Styles commit
+8c72fa6 HEAD@{22}: checkout: moving from develop to styles
+8c72fa6 HEAD@{23}: checkout: moving from images to develop
+f0ef8db (origin/images, images) HEAD@{24}: commit: New commit
+8c72fa6 HEAD@{25}: checkout: moving from develop to images
+8c72fa6 HEAD@{26}: checkout: moving from images to develop
+8c72fa6 HEAD@{27}: checkout: moving from develop to images
+8c72fa6 HEAD@{28}: commit: Commmit
+3b3de4a HEAD@{29}: checkout: moving from main to develop
+3b3de4a HEAD@{30}: checkout: moving from Develop to main
+f105dca HEAD@{31}: checkout: moving from main to Develop
+3b3de4a HEAD@{32}: checkout: moving from Develop to main
+f105dca HEAD@{33}: checkout: moving from main to Develop
+3b3de4a HEAD@{34}: checkout: moving from Develop to main
+f105dca HEAD@{35}: checkout: moving from main to Develop
+3b3de4a HEAD@{36}: checkout: moving from Develop to main
+f105dca HEAD@{37}: checkout: moving from main to Develop
+3b3de4a HEAD@{38}: commit: Commit
+f105dca HEAD@{39}: checkout: moving from Develop to main
+f105dca HEAD@{40}: checkout: moving from main to Develop
+f105dca HEAD@{41}: clone: from https://github.com/Polarnatt/DevOps_online_Kyiv_2020Q42021Q1.git
+~
