@@ -5,3 +5,7 @@
 <h4>Task 2</h4>
 
 ![Image 2](img/2.png)
+
+<h4>Task 3</h4>
+
+![Image 3](img/3.png)
