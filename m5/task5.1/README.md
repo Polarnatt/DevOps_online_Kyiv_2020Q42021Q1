@@ -72,5 +72,20 @@ more
 ![Image 14](img/14.png)
 
 
+7) * Describe in plans that you are working on laboratory work 1. Tip: You should read the documentation for the finger command.
+
+![Image 15](img/15.png)
+
+
+8) * List the contents of the home directory using the ls command, define its files and directories. Hint: Use the help system to familiarize yourself with the ls command.
+
+![Image 16](img/16.png)
+
+
+![Image 17](img/17.png)
+
+
+![Image 18](img/18.png)
+
 
 <h2>Task 1. Part 2</h2>
