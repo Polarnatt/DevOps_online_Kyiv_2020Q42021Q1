@@ -226,10 +226,39 @@ In case of hard link, it erases total data of the original file.
 
 9) Count the number of lines containing a given sequence of characters in a given file.
 
+![Image 43](img/43.png)
+
 
 10) Using the find command, find all files in the /etc directory containing the host character sequence.
+
+![Image 44](img/44.png)
+
+
 11) List all objects in /etc that contain the ss character sequence. How can I duplicate a similar command using a bunch of grep?
+
+![Image 45](img/45.png)
+
+
+No way, actually. grep command is used for searching sequences in files, not name of files.
+
 12) Organize a screen-by-screen print of the contents of the /etc directory. Hint: You must use stream redirection operations.
+
+![Image 46](img/46.png)
+
+
 13) What are the types of devices and how to determine the type of device? Give examples.
+
+Answer:
+There are four types of hardware devices: character, block, pipe and socket.
+Example of character device: file that transfer data, but one a character at a time.
+Example of block device: file that transfer data, but in large fixed-sized block.
+Example of pipe device: two or more processes, that communicate with each other and send output to another process.
+Example of socket device: device that facilitate communication between processes.
+
 14) How to determine the type of file in the system, what types of files are there?
+
+Answer:
+In Linux, you can determine the type of file in the system by file command.
+There are seven types of files in Linux: regular type, directory, character device file, block device file, local socket file, named pipe and symbolic link.
+
 15) * List the first 5 directory files that were recently accessed in the /etc directory.
