@@ -109,8 +109,10 @@ To send control signal with the kill command you can use kill -c [USERNAME] [PID
 17. Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command to demonstrate the process control mechanism with fg, bg.
 
 Answer:
-1) jobs - list processes(works only in the bash, csh, tsch and ksh)
-2) bg - put process into background.
+1) jobs - list jobs
+2) bg - put job into background.
+3) fg - put job into foreground.
+
 
 
 <h2>Part 2</h2>
