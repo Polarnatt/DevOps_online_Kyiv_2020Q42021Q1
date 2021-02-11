@@ -112,12 +112,19 @@ Answer:
 1) jobs - list jobs
 2) bg - put job into background.
 3) fg - put job into foreground.
+4) nohup - command, that allows to put a script into background, even if the terminal is closed.
 
+
+![Image 13](img/13.png)
 
 
 <h2>Part 2</h2>
 
 1. Check the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. (Description of the expected result of the commands + screenshots: command – result should be presented)
+
+
+
+
 2. Implement basic SSH settings to increase the security of the client-server connection (at least
 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
 4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
