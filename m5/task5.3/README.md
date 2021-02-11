@@ -122,10 +122,77 @@ Answer:
 
 1. Check the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. (Description of the expected result of the commands + screenshots: command – result should be presented)
 
+1) ssh [username]@[ip address]
+Expected result - enter a host pc
+
+![Image 14](img/14.png)
 
 
+![Image 15](img/15.png)
 
-2. Implement basic SSH settings to increase the security of the client-server connection (at least
+
+2) ls
+Expected result - show all files and directories in current directory
+
+![Image 16](img/16.png)
+
+
+3) touch
+Expected result - create a certain file.
+
+![Image 17](img/17.png)
+
+
+2. Implement basic SSH settings to increase the security of the client-server connection.
+
+1) ClientAliveInterval 360 and ClientAliveCountMax 0
+
+Description: set the idle timeout interval in 360 seconds and when this time has passed you are automatically logged out.
+
+![Image 18](img/18.png)
+
+
+2) passwd
+
+Description: change the password.
+
+![Image 19](img/19.png)
+
+
+3) AllowUsers user1 user2
+
+Description: limitation of your SSH logins to only certain users.
+
+![Image 20](img/20.png)
+
+
 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
+
+Answer:
+1) RSA key - encryption, that is based on algorithm, that is based on the difficulty of factoring large numbers.
+
+![Image 21](img/21.png)
+
+
+2) DSA key - key that is used to generate digital signatures.
+
+![Image 22](img/22.png)
+
+
+3) Ed25519 key - key, that is an elliptic curve signature that offers better security than ECDSA and DSA and good performance.
+
+![Image 23](img/23.png)
+
+
 4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
+
+![Image 24](img/24.png)
+
+
+![Image 25](img/25.png)
+
+
+![Image 26](img/26.png)
+
+
 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
