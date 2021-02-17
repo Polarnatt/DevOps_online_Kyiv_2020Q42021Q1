@@ -12,6 +12,9 @@
 ![Image 4](img/4.png)
 
 
+![Image 13](img/13.png)
+
+
 2. Check the route from VM2 to Host.
 
 ![Image 5](img/5.png)
