@@ -1,11 +1,11 @@
-<p4>Part 1</p4>
+<h4>Part 1</h4>
 A. Create a script that uses the following keys:
 1. When starting without parameters, it will display a list of possible keys and their description.
 2. The --all key displays the IP addresses and symbolic names of all hosts in the current subnet
 3. The --target key displays a list of open system TCP ports.
 The code that performs the functionality of each of the subtasks must be placed in a separate function
 
-<p4>Part 2</p4>
+<h4>Part 2</h4>
 B. Using Apache log example create a script to answer the following questions:<>
 1. From which ip were the most requests?
 2. What is the most requested page?
@@ -14,7 +14,7 @@ B. Using Apache log example create a script to answer the following questions:<>
 5. What time did site get the most requests?
 6. What search bots have accessed the site? (UA + IP)
 
-<p4>Part 4</p4>
+<h4>Part 4</h4>
 C. Create a data backup script that takes the following data as parameters:
 1. Path to the syncing directory.
 2. The path to the directory where the copies of the files will be stored.
