@@ -49,14 +49,40 @@
 
 11. Review the 10-minute example. Store and Retrieve a File. Repeat, creating your own repository.
 
+![Image 10](img/9.png)
+
+
+![Image 11](img/10.png)
+
 
 12. Review the 10-minute example. Batch upload files to the cloud to Amazon S3 using the AWS CLI. Create a user AWS IAM, configure CLI AWS and upload any files to S3.
+
+![Image 12](img/11.png)
+
+
+![Image 13](img/12.png)
+
+
+![Image 14](img/13.png)
+
 
 13. Review the 10-minute example.Explore the possibilities of creating your own domain and domain name for your site.
 
 14. Review the 10-minute example. Deploy Docker Containers on Amazon Elastic Container Service (Amazon ECS). Repeat, create a cluster, and run the online demo application or better other application with custom settings.
 
+![Image 15](img/18.png)
+
+
+![Image 16](img/19.png)
+
+
+![Image 17](img/20.png)
+
+
 15. Create a static website on Amazon S3, publicly available(link1 or link2-using a custom domain registered with Route 53). Post on the page your own photo, the name of the educational  program(EPAM DevOps  online Spring 2021),the list of AWS services with which the student worked within the educational program or earlier and the full list with links of completed labs (based on tutorials or qwiklabs). Provide the link to the website in your report.
 
-![Image 10](img/14.png)
+![Image 18](img/21.png)
+
+
+![Image 19](img/22.png)
 
